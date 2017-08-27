@@ -1,2 +1,2 @@
-# JsAttack
-just learning js files
+# JsPractice
+Практикум по JS
